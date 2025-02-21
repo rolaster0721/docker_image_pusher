@@ -1,4 +1,4 @@
-ghcr.io/he0119/open-webui:0.5.16-reasoning-ollama
+he0119/open-webui
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
